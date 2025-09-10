@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89335916981",
+    "project_id": "autentica-c9a6f",
+    "storage_bucket": "autentica-c9a6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89335916981:android:8c0b210f00eb85403411fc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHquwuz33x7HqJRd6i0AxHHcGuLP6Xj4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
